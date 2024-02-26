@@ -1,9 +1,9 @@
-##**Project Title:** GPT-Powered-Psychotherapist
+GPT-Powered-Psychotherapist
 
 **GitHub Repository:** [GPT-Powered-Psychotheripst](https://github.com/Aftabmallick/GPT-Powered-Psychotheripst.git)
 
 ## Description:
-GPT-Powered-Psychotherapist is a project that leverages the power of OpenAI's GPT (Generative Pre-trained Transformer) model to simulate conversations with users, acting as a virtual psychotherapist. This project aims to provide a platform where users can engage in therapeutic conversations with an AI-powered entity. It accepts both voice and text inputs and provides responses in both voice and text formats, enhancing the user experience.
+GPT-Powered-Psychotherapist is a project that leverages the power of OpenAI's GPT (Generative Pre-trained Transformer) model to simulate conversations with users, acting as a virtual psychotherapist. This project aims to provide a platform where users can engage in therapeutic conversations with an AI-powered entity. It accepts voice inputs and provides responses in both voice and text formats, enhancing the user experience.
 
 ## Installation:
 To run this project locally, ensure you have Python installed on your system. Then, follow these steps:
@@ -48,9 +48,6 @@ This will launch a Streamlit web application where users can interact with the G
 
 ## Contributors:
 - [Aftabmallick](https://github.com/Aftabmallick)
-
-## License:
-This project is licensed under the [MIT License](https://github.com/Aftabmallick/GPT-Powered-Psychotheripst/blob/main/LICENSE).
 
 ---
 Feel free to contribute to this project by forking and submitting pull requests. If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository. Thank you for using GPT-Powered-Psychotherapist!
