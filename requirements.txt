@@ -6,9 +6,4 @@ streamlit
 pygame
 langchain_openai
 streamlit-audiorec
-google-generativeai
-ipython
-gtts
-SpeechRecognition
-pyaudio
 openai-whisper
