@@ -1,4 +1,4 @@
-**Project Title:** GPT-Powered-Psychotherapist
+##**Project Title:** GPT-Powered-Psychotherapist
 
 **GitHub Repository:** [GPT-Powered-Psychotheripst](https://github.com/Aftabmallick/GPT-Powered-Psychotheripst.git)
 
