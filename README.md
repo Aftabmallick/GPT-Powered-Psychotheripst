@@ -47,7 +47,8 @@ This will launch a Streamlit web application where users can interact with the G
 - [openai-whisper](https://pypi.org/project/openai-whisper/)
 
 ## Contributors:
-- [Aftabmallick](https://github.com/Aftabmallick)
+- [<img src="https://github.com/Aftabmallick.png" width="60px;"/><br /><sub><a href="https://github.com/Aftabmallick">Aftabmallick</a></sub>](https://github.com/Aftabmallick/GPT-Powered-Psychotheripst)
+
 
 ---
 Feel free to contribute to this project by forking and submitting pull requests. If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository. Thank you for using GPT-Powered-Psychotherapist!
